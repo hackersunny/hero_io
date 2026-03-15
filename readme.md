@@ -193,9 +193,9 @@
 - **GitHub Repository:** YOUR_REPO_URL_HERE
 
 
-### 📅 Deadline For 60 marks: 18 March , 2026 (11:59 pm ⏱️)
+### 📅 Deadline For 60 marks: 26 March , 2026 (11:59 pm ⏱️)
 
-### 📅 Deadline For 50 marks : 26 March , 2026 (11:59 pm⏱️)
+### 📅 Deadline For 50 marks : 27 March , 2026 (11:59 pm⏱️)
 
 ### 📅 Deadline For 30 marks: Since this is the final assignment, there will be no 30-mark deadline. You must submit it within the 50-mark deadline to qualify for the reward.
 
